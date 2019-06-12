@@ -52,7 +52,7 @@ laravel new 项目名
 
 改为
 
-'timezone' => 'RPC',
+'timezone' => 'PRC',
 ```
 
 ### 将 `session` 存在 `redis` 中
